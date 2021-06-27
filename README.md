@@ -20,5 +20,5 @@ Steps to start the Web-based Recruitment Portal :
 
 
 
-You may load dummy data from online databases (like we had done) using python manage.py loaddata fixtures/app_name_initial_data.json --app app.model_name
+You may load dummy data from online databases (like we had done and incorporated in the current repository database) using python manage.py loaddata fixtures/app_name_initial_data.json --app app.model_name
 (Thanks to the dummy data provider Manjurul Haque)
